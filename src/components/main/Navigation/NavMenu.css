@@ -1,0 +1,14 @@
+.nav-menu {
+    width: 15%;
+    min-width: 300px;
+    height: calc(100% - 50px);
+    background-color: #C0392B;
+    position: absolute;
+    left: -300px;
+    top: 50px;
+    transition: left 0.3s ease;
+}
+
+.nav-menu.open {
+    left: 0;
+}
