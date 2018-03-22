@@ -1,0 +1,10 @@
+.header {
+    position: absolute;
+    left: 50%;
+    top: -20%;
+    bottom: 0px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
