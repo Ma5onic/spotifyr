@@ -2,13 +2,10 @@ import React, { Component } from 'react';
 import './Header.css';
 
 class Header extends Component {
-    constructor(props) {
-            super(props);
-    }
 
     render() {        
         return (
-            <a href='#'>
+            <a href='index.js'>
                 <h1 className="header">
                     Spotifyr
                 </h1>
